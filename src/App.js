@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Nikhil from "./nikhil";
+import Nikhil from "./Nikhil";
 
 function App() {
   return (
